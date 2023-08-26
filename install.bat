@@ -1,0 +1,1 @@
+pip install torch torchaudio transformers speechrecognition pydub
